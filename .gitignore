@@ -168,3 +168,5 @@ docs/__pycache__
 
 .vscode
 .pypirc
+venv/Lib/site-packages/pip/__init__.py
+venv

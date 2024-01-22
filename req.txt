@@ -1,0 +1,7 @@
+scipy
+matplotlib
+numpy
+pyopencl
+shapely
+jinja2
+numba
